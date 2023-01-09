@@ -180,7 +180,7 @@ body {
 .featured-movie-zero{
   background: linear-gradient(to bottom, rgba(0, 0, 0, 0), #151515),
   url('../images/deniro-cover.jpg');
-  background-size: 1400px;
+  background-size: 800px;
   padding-top: 20px;
   border-radius: 30px;
   margin-bottom: 30px;
@@ -190,7 +190,7 @@ body {
 .featured-movie-one{
   background: linear-gradient(to bottom, rgba(0, 0, 0, 0), #151515),
   url('../images/alpacino-cover-2.jpg');
-  background-size: cover;
+  background-size: 800px;
   padding-top: 20px;
   border-radius: 30px;
   margin-bottom: 30px;
@@ -199,7 +199,7 @@ body {
 .featured-movie-two{
   background: linear-gradient(to bottom, rgba(0, 0, 0, 0), #151515),
   url('../images/dicaprio-\ cover.jpg');
-  background-size: cover;
+  background-size: 800px;
   padding-top: 20px;
   border-radius: 30px;
   margin-bottom: 30px;
@@ -225,7 +225,7 @@ body {
 .featured-movie-five{
   background: linear-gradient(to bottom, rgba(0, 0, 0, 0), #151515),
   url('../images/tobey-cover.jpg');
-  background-size: 1700px;
+  background-size: 790px;
   border-radius: 30px;
   padding-top: 20px;
   margin-bottom: 30px;
